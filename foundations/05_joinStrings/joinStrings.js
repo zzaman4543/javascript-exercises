@@ -10,7 +10,10 @@
 // Add your code right below, good luck!
 
 
-
+const firstName = 'Carlos';
+const lastName = 'Stevenson';
+const thisYear = 1965;
+const birthYear = 1947;
 
 
 // Do not change this
